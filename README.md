@@ -25,7 +25,9 @@ docker compose up -d
 
 ### ブラウザ上でWordPressへアクセス
 
-http://localhost:8000
+管理者画面：http://localhost:8000/wp-admin/
+
+ユーザー画面：http://localhost:8000
 
 #### 初期設定画面
 
