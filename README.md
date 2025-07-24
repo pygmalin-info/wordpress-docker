@@ -44,3 +44,25 @@ docker compose up -d
 ```bash
 docker compose down
 ```
+
+## 管理者画面
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/1a9ef23b-6b8b-4a00-ba53-3d818a84b3d3" />
+
+### 記事を新規投稿
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/3e3842ab-8c45-4bcf-8ac7-c00db72394fe" />
+
+### 記事作成&公開
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/b8a85632-201b-4a6c-a340-b45dbc6dc3c6" />
+
+## ユーザー画面
+
+左上のリンクから移動
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/57292d92-a836-4e25-a9a9-696eace24a32" />
+
+先ほど登録した記事が表示されている
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/1ec7ab8b-e7bf-4cbc-a2bc-56f20df65172" />
